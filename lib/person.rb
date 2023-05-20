@@ -58,4 +58,3 @@ end
 
 
 p = Person.new("Daniel")
-binding.pry
